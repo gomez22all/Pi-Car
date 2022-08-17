@@ -1,0 +1,1 @@
+edges = cv2.Canny(mask, 200, 400)
